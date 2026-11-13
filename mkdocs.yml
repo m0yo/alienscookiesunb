@@ -1,0 +1,7 @@
+site_name: Alien's Cookies UnB
+site_description: Reservas de cookies caseirinhos, direto pra UnB.
+site_url: https://mariaoliveirag14-stack.github.io/alienscookies-unb/
+theme:
+  name: null          # sem tema pronto: a página inteira vem de overrides/main.html
+  custom_dir: overrides
+  locale: pt_BR
